@@ -4,7 +4,7 @@
 -  I’m currently working on Flutter and ML projects. 
 -  I’m currently learning Flutter, Deep learning , DBMS and Web development.
 
-Skills: Python , C++, Dart, Java, SQL , JS, HTML, CSS
+Skills: Python , C++, Dart, Java, SQL , HTML, CSS
 
 
 
