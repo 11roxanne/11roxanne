@@ -4,8 +4,14 @@
 -  I’m currently working on Web development and ML projects. 
 -  I’m currently learning Flutter, Deep learning , Database managment and Web development.
 
-https://www.hackerrank.com/sahuvedanshi11
-https://leetcode.com/vedanshi11_/
+<a href="https://www.hackerrank.com/sahuvedanshi11">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hackerrank/hackerrank-plain.svg" title="HackerRank" alt="HackerRank" width="40" height="40"/>
+</a>
+
+<a href="https://leetcode.com/vedanshi11_/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/leetcode/leetcode-original.svg" title="LeetCode" alt="LeetCode" width="40" height="40"/>
+</a>
+
 
 Skills: Python , C++, Dart, Java, SQL , HTML, CSS, JavaScript
 
