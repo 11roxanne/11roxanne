@@ -4,6 +4,9 @@
 -  I’m currently working on Web development and ML projects. 
 -  I’m currently learning Flutter, Deep learning , Database managment and Web development.
 
+https://www.hackerrank.com/sahuvedanshi11
+https://leetcode.com/vedanshi11_/
+
 Skills: Python , C++, Dart, Java, SQL , HTML, CSS, JavaScript
 
 
