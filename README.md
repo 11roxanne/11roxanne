@@ -2,13 +2,14 @@
 #### Currently in my 3rd year at Symbiosis Institute of Technology 
 
 
-Skills: Python , C++, Dart, Java, SQL , HTML, CSS, JavaScript
+Skills: Python ,C & C++, Dart, Java, SQL , HTML, CSS, JavaScript
+Intrests: DSA, Computer Networking , Andriod Development, Database Management.
 
 You can reach out to me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](https://twitter.com/your-twitter-handle)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-URL-blue)](https://www.yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vedanshi-sahu-9362b2214/)
+[![HackerRank](https://img.shields.io/badge/Twitter-Handle-blue)](https://www.hackerrank.com/profile/sahuvedanshi11)
+[![Leetcode](https://img.shields.io/badge/Personal%20Website-URL-blue)](https://leetcode.com/vedanshi11_/)
 
 
 
