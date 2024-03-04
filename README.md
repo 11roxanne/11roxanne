@@ -2,7 +2,6 @@
 #### Currently in my 3rd year at Symbiosis Institute of Technology 
 
 
-Skills: Python, C & C++, Dart, Java, SQL, HTML, CSS, JavaScript
 
 Interests: DSA, Computer Networking, Android Development, Database Management.
 
