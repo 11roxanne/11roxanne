@@ -3,10 +3,10 @@
 
 
 
-Interests: DSA, Computer Networking, Android Development, Database Management.
+### Interests: DSA, Computer Networking, Android Development, Database Management.
 
 
-You can reach out to me on:
+### You can reach out to me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vedanshi-sahu-9362b2214/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank)](https://www.hackerrank.com/profile/sahuvedanshi11)
