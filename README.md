@@ -1,5 +1,5 @@
-#### Hi there, I am Vedanshi Sahu 👋 
-#### Currently in my 3rd year at Symbiosis Institute of Technology 
+### Hi there, I am Vedanshi Sahu 👋 
+### Currently in my 3rd year at Symbiosis Institute of Technology 
 
 
 
