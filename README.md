@@ -1,17 +1,15 @@
-### Hi there 👋, 
+### Hi there, I am Vedanshi Sahu 👋 
 #### Currently in my 3rd year at Symbiosis Institute of Technology 
 
+Skills: Python, C & C++, Dart, Java, SQL, HTML, CSS, JavaScript
 
-Skills: Python ,C & C++, Dart, Java, SQL , HTML, CSS, JavaScript
-Intrests: DSA, Computer Networking , Andriod Development, Database Management.
+Interests: DSA, Computer Networking, Android Development, Database Management.
 
 You can reach out to me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vedanshi-sahu-9362b2214/)
-[![HackerRank](https://img.shields.io/badge/Twitter-Handle-blue)](https://www.hackerrank.com/profile/sahuvedanshi11)
-[![Leetcode](https://img.shields.io/badge/Personal%20Website-URL-blue)](https://leetcode.com/vedanshi11_/)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vedanshi-sahu-9362b2214/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?logo=hackerrank)](https://www.hackerrank.com/profile/sahuvedanshi11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode)](https://leetcode.com/vedanshi11_/)
 
 ### Languages & Tools-
 <div>
