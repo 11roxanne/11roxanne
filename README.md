@@ -1,9 +1,9 @@
 ### Hi there, I am Vedanshi Sahu 👋 
-### Currently in my 3rd year at Symbiosis Institute of Technology 
+### Currently in my Final Year at Symbiosis Institute of Technology 
 
 
 
-### Interests: DSA, Computer Networking, Android Development, Database Management.
+### Interests: DSA, Computer Networking, Android Development, Database Management, Machine Learning.
 
 
 ### You can reach out to me on:
