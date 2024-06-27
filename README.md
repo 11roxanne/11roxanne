@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 </div>
 
 
